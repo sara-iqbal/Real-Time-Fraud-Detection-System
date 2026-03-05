@@ -119,7 +119,7 @@ jupyter notebook fraud_detection_colab.ipynb
 ## Links
 
 - GitHub Repository: https://github.com/sara-iqbal/Real-Time-Fraud-Detection-System
-- Live Demo: update this link after deploying to Hugging Face Spaces
+- Live Demo: https://sara-iqbal.github.io/Real-Time-Fraud-Detection-System/
 - Google Colab: https://colab.research.google.com/github/sara-iqbal/Real-Time-Fraud-Detection-System/blob/main/fraud_detection_colab.ipynb
 
 ---
