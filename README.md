@@ -10,6 +10,15 @@ This project builds an end-to-end machine learning system that detects fraudulen
 
 The system combines two modelling approaches: a supervised XGBoost classifier and an unsupervised Isolation Forest anomaly detector. Their outputs are blended into a weighted ensemble that produces a final fraud probability score for each transaction. The project covers everything from raw data ingestion through to a live interactive web application that anyone can access and test.
 
+## Links
+
+- GitHub Repository: https://github.com/sara-iqbal/Real-Time-Fraud-Detection-System
+- Live Demo: https://sara-iqbal.github.io/Real-Time-Fraud-Detection-System/
+- Google Colab: https://colab.research.google.com/github/sara-iqbal/Real-Time-Fraud-Detection-System/blob/main/fraud_detection_colab.ipynb
+
+---
+
+
 ---
 
 ## Model Performance
@@ -113,14 +122,6 @@ cd fraud-detection
 pip install -r requirements.txt
 jupyter notebook fraud_detection_colab.ipynb
 ```
-
----
-
-## Links
-
-- GitHub Repository: https://github.com/sara-iqbal/Real-Time-Fraud-Detection-System
-- Live Demo: https://sara-iqbal.github.io/Real-Time-Fraud-Detection-System/
-- Google Colab: https://colab.research.google.com/github/sara-iqbal/Real-Time-Fraud-Detection-System/blob/main/fraud_detection_colab.ipynb
 
 ---
 
